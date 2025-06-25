@@ -1,6 +1,6 @@
 # 💬 ChatLink
 
-![Logo](./.resimler/logo.png)
+<img src="./.resimler/logo.png" alt="ChatLink Logo" width="100"/>
 
 **ChatLink** is a lightweight and responsive web app that lets you send WhatsApp messages to unsaved phone numbers — instantly, with or without a message.
 
