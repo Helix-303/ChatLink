@@ -23,9 +23,6 @@
 2. Optionally, write a message you want to send.
 3. Click **"Send Message"** and you'll be redirected to WhatsApp instantly.
 
-## 🧪 Live Demo
-> _Coming soon..._
-
 ## 📄 License
 MIT – free to use, modify, and distribute.
 
@@ -55,9 +52,6 @@ MIT – free to use, modify, and distribute.
 1. Uluslararası formatta numarayı gir (örnek: `905xxxxxxxxx`).
 2. Dilersen göndermek istediğin mesajı yaz.
 3. **"Mesaj At"** butonuna tıkla, anında WhatsApp sohbet ekranına yönlendirilirsin.
-
-## 🧪 Canlı Demo
-> _Çok yakında..._
 
 ## 📄 Lisans
 MIT – kullanmakta, değiştirmekte ve paylaşmakta özgürsün.
